@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Released [Delibera v10.2.7](https://github.com/techbuzzz/Delibera) — Multi-Modal Council (Vision + Documents)
-2. 🚀 Released [Delibera v10.2.6](https://github.com/techbuzzz/Delibera) — Async Streaming Council + Pluggable Voting
-3. 📚 Started [Hands-On MCP for C# / .NET](https://github.com/techbuzzz/Hands-On-Model-Context-Protocol-for-C-and-.NET-Developers) book
-4. 🎬 Shipped [marp-play](https://github.com/techbuzzz/marp-play) v1.0 — public Marp slides player
-5. 🦾 Open-sourced [Hercules](https://github.com/techbuzzz/Hercules) — self-improving microagent
+1. 🎉 Merged PR [#9](https://github.com/techbuzzz/Delibera/pull/9) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+2. ℹ️ Assigned PR [#9](https://github.com/techbuzzz/Delibera/pull/9) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. 💪 Opened PR [#9](https://github.com/techbuzzz/Delibera/pull/9) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. 🎉 Merged PR [#8](https://github.com/techbuzzz/Delibera/pull/8) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. ℹ️ Labeled PR [#8](https://github.com/techbuzzz/Delibera/pull/8) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
