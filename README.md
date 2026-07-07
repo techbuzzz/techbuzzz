@@ -165,4 +165,4 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 
 ---
 
-<sub>📌 <em>Note: this README is auto-rendered. The `<!--START_SECTION:activity-->` block is auto-updated every 2 hours via <a href="https://github.com/jamesgeorge007/github-activity-readme">github-activity-readme</a> <a href="https://github.com/techbuzzz/techbuzzz/actions/workflows/update-readme.yml"><img src="https://github.com/techbuzzz/techbuzzz/actions/workflows/update-readme.yml/badge.svg" alt="Update README" /></a></em></sub>
+<sub>📌 <em>Note: this README is auto-rendered. The `<!--START_SECTION:activity-->` block is auto-updated every 2 hours via <a href="https://github.com/jamesgeorge007/github-activity-readme">github-activity-readme</a></em></sub>
