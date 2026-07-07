@@ -123,10 +123,6 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techbuzzz&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ffd700&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://gh-trophy.cdnsoft.net/?username=techbuzzz&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🏆 Recent Activity
