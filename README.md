@@ -21,7 +21,7 @@ experience:  15+ years building enterprise systems
 focus:       Production AI, Multi-Model Orchestration, RAG, LLM Agents
 stack:       C# / .NET 10 / TypeScript / Go / Python
 background:  Ex-Head of Software Development (SEFE) · led teams of 16-32 engineers
-location:    Germany · open for remote contracts (EU timezone)
+location:    Open for remote contracts (EU timezone)
 mission:     Ship AI that runs in production — not in Notion demos.
 ```
 
