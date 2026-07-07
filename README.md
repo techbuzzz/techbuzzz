@@ -67,17 +67,7 @@ A compact self-improving microagent that reproduces key "hermes-style" agent cha
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### 📄 [contract-audit-bot](https://github.com/techbuzzz/contract-audit-bot)
-**B2C Telegram Bot for Contract Risk Analysis** · C# / .NET 10
-
-Production Telegram bot for auditing Russian-language legal contracts. YandexGPT-powered, with Privacy Engine (AES-256-GCM + Natasha NER for PII redaction). PostgreSQL, S3, Quartz jobs, Astro landing page.
-
-`Telegram` `YandexGPT` `Python.NET` `PostgreSQL` `Privacy`
-
-</td>
-<td width="50%">
+<td colspan="2">
 
 ### 🎬 [marp-play](https://github.com/techbuzzz/marp-play)
 **Online Markdown-to-Slides Player** · TypeScript
@@ -88,28 +78,7 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### 🐙 [agent-shaker](https://github.com/techbuzzz/agent-shaker)
-**Multi-Agent Coordination Platform** · Go
-
-Coordination platform for managing AI agents and teams in complex projects. Centralized project management, agent registration, task coordination.
-
-`Go` `Multi-Agent` `Coordination` `MCP`
-
-</td>
-<td width="50%">
-
-### 📚 [Hands-On MCP for C# / .NET](https://github.com/techbuzzz/Hands-On-Model-Context-Protocol-for-C-and-.NET-Developers)
-**MCP Book for .NET Developers** · C#
-
-Practical guide to Model Context Protocol for C# and .NET developers — building MCP servers and clients, integrating with Claude Code, VS Code, and Cursor.
-
-`MCP` `C#` `Book` `AI-Tools` `Claude`
-
-</td>
-</tr>
 </table>
 
 ---
@@ -146,8 +115,8 @@ Practical guide to Model Context Protocol for C# and .NET developers — buildin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techbuzzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techbuzzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&count_private=true&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=techbuzzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=techbuzzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&count_private=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -155,7 +124,7 @@ Practical guide to Model Context Protocol for C# and .NET developers — buildin
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techbuzzz&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://gh-trophy.cdnsoft.net/?username=techbuzzz&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
