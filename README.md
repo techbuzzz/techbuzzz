@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-2. ❗ Opened issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-3. ℹ️ Labeled issue [#18](https://github.com/techbuzzz/Delibera/issues/18) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-4. ❗ Opened issue [#18](https://github.com/techbuzzz/Delibera/issues/18) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-5. 🔒 Closed issue [#10](https://github.com/techbuzzz/Delibera/issues/10) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+1. 🔒 Closed issue [#17](https://github.com/techbuzzz/Delibera/issues/17) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+2. ℹ️ Assigned issue [#17](https://github.com/techbuzzz/Delibera/issues/17) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. ℹ️ Labeled issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. ❗ Opened issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. ℹ️ Labeled issue [#18](https://github.com/techbuzzz/Delibera/issues/18) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
