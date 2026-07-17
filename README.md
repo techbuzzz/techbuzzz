@@ -140,7 +140,8 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)
+- [.NET 11: A Deep Dive into the Future of .NET](https://techbuzzz.me/blog/dotnet-11-deep-dive/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on techbuzzz.me](https://techbuzzz.me/blog/)
 
