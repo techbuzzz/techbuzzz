@@ -140,10 +140,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [From Senior Engineer to Principal: What Changes and What Does Not](https://techbuzzz.me/blog/senior-to-principal-engineer/)
+- [RAG Is a System, Not a Prompt: Retrieval, Context, Evaluation and Operations](https://techbuzzz.me/blog/rag-is-a-system-not-a-prompt/)
+- [5 Questions Before Starting a RAG PoC](https://techbuzzz.me/blog/5-questions-before-rag-poc/)
 - [A Practical Reference Architecture for Enterprise RAG on .NET and Azure](https://techbuzzz.me/blog/enterprise-rag-reference-architecture-dotnet-azure/)
-- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)
-- [Why &#39;an LLM Chatbot&#39; Is Not an AI Architecture](https://techbuzzz.me/blog/llm-chatbot-not-ai-architecture/)
-- [.NET 11: A Deep Dive into the Future of .NET](https://techbuzzz.me/blog/dotnet-11-deep-dive/)<!-- BLOG-POST-LIST:END -->
+- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on techbuzzz.me](https://techbuzzz.me/blog/)
 
