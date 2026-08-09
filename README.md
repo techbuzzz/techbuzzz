@@ -140,11 +140,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RAG Evaluation Before Production: A Practical Guide](https://techbuzzz.me/blog/rag-evaluation-before-production/)
+- [Chunking Is Not a Strategy: How to Choose Retrieval Units](https://techbuzzz.me/blog/chunking-is-not-a-strategy/)
 - [From Senior Engineer to Principal: What Changes and What Does Not](https://techbuzzz.me/blog/senior-to-principal-engineer/)
 - [RAG Is a System, Not a Prompt: Retrieval, Context, Evaluation and Operations](https://techbuzzz.me/blog/rag-is-a-system-not-a-prompt/)
-- [5 Questions Before Starting a RAG PoC](https://techbuzzz.me/blog/5-questions-before-rag-poc/)
-- [A Practical Reference Architecture for Enterprise RAG on .NET and Azure](https://techbuzzz.me/blog/enterprise-rag-reference-architecture-dotnet-azure/)
-- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)<!-- BLOG-POST-LIST:END -->
+- [5 Questions Before Starting a RAG PoC](https://techbuzzz.me/blog/5-questions-before-rag-poc/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on techbuzzz.me](https://techbuzzz.me/blog/)
 
