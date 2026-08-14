@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-2. ℹ️ Labeled PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-3. 💪 Opened PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-4. ℹ️ Assigned PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-5. 🔒 Closed issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+1. ℹ️ Assigned PR [#1](https://github.com/techbuzzz/Hercules/pull/1) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
+2. ℹ️ Assigned PR [#2](https://github.com/techbuzzz/Hercules/pull/2) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
+3. ℹ️ Assigned PR [#3](https://github.com/techbuzzz/Hercules/pull/3) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
+4. ℹ️ Assigned PR [#4](https://github.com/techbuzzz/Hercules/pull/4) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
+5. ℹ️ Assigned PR [#5](https://github.com/techbuzzz/Hercules/pull/5) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
 <!--END_SECTION:activity-->
 
 ---
