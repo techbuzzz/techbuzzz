@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/techbuzzz/ai-watermark-remover/pull/1) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-2. ❌ Closed PR [#3](https://github.com/techbuzzz/ai-watermark-remover/pull/3) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-3. ❌ Closed PR [#4](https://github.com/techbuzzz/ai-watermark-remover/pull/4) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-4. ❌ Closed PR [#14](https://github.com/techbuzzz/ai-watermark-remover/pull/14) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-5. ❌ Closed PR [#2](https://github.com/techbuzzz/ai-watermark-remover/pull/2) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+1. ℹ️ Assigned PR [#21](https://github.com/techbuzzz/ai-watermark-remover/pull/21) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+2. ❌ Closed PR [#1](https://github.com/techbuzzz/ai-watermark-remover/pull/1) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+3. ❌ Closed PR [#3](https://github.com/techbuzzz/ai-watermark-remover/pull/3) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+4. ❌ Closed PR [#4](https://github.com/techbuzzz/ai-watermark-remover/pull/4) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+5. ❌ Closed PR [#14](https://github.com/techbuzzz/ai-watermark-remover/pull/14) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
 <!--END_SECTION:activity-->
 
 ---
