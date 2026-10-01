@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-2. 💪 Opened PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-3. ❌ Closed PR [#3](https://github.com/techbuzzz/ai-watermark-remover/pull/3) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-4. ❌ Closed PR [#4](https://github.com/techbuzzz/ai-watermark-remover/pull/4) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
-5. ❌ Closed PR [#14](https://github.com/techbuzzz/ai-watermark-remover/pull/14) in [techbuzzz/ai-watermark-remover](https://github.com/techbuzzz/ai-watermark-remover)
+1. 🚀 Published release [v0.4.0](https://github.com/techbuzzz/agent-shaker/releases/tag/v0.4.0) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+2. 🎉 Merged PR [#42](https://github.com/techbuzzz/agent-shaker/pull/42) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+3. 💪 Opened PR [#42](https://github.com/techbuzzz/agent-shaker/pull/42) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+4. 🎉 Merged PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+5. 💪 Opened PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
 <!--END_SECTION:activity-->
 
 ---
