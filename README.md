@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/techbuzzz/agent-shaker/releases/tag/v0.4.0) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-2. 🎉 Merged PR [#42](https://github.com/techbuzzz/agent-shaker/pull/42) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-3. 💪 Opened PR [#42](https://github.com/techbuzzz/agent-shaker/pull/42) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-4. 🎉 Merged PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-5. 💪 Opened PR [#41](https://github.com/techbuzzz/agent-shaker/pull/41) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+1. 💪 Opened PR [#8](https://github.com/techbuzzz/Hercules/pull/8) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
+2. 🎉 Merged PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. ℹ️ Assigned PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. 💪 Opened PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. 🎉 Merged PR [#21](https://github.com/techbuzzz/Delibera/pull/21) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
