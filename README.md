@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/techbuzzz/Hercules/pull/8) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
-2. 🎉 Merged PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-3. ℹ️ Assigned PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-4. 💪 Opened PR [#22](https://github.com/techbuzzz/Delibera/pull/22) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-5. 🎉 Merged PR [#21](https://github.com/techbuzzz/Delibera/pull/21) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+1. 🎉 Merged PR [#23](https://github.com/techbuzzz/Delibera/pull/23) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+2. 🔒 Closed issue [#16](https://github.com/techbuzzz/Delibera/issues/16) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. 🔒 Closed issue [#18](https://github.com/techbuzzz/Delibera/issues/18) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. 🔒 Closed issue [#13](https://github.com/techbuzzz/Delibera/issues/13) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. 🔒 Closed issue [#15](https://github.com/techbuzzz/Delibera/issues/15) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
