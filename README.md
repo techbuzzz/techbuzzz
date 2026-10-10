@@ -128,11 +128,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#27](https://github.com/techbuzzz/Delibera/pull/27) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-2. ℹ️ Assigned PR [#27](https://github.com/techbuzzz/Delibera/pull/27) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-3. 🚀 Published release [v10.5.2](https://github.com/techbuzzz/Delibera/releases/tag/v10.5.2) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-4. 🚀 Published release [v10.5.1](https://github.com/techbuzzz/Delibera/releases/tag/v10.5.1) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
-5. 🚀 Published release [v10.5.0](https://github.com/techbuzzz/Delibera/releases/tag/v10.5.0) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+1. 🎉 Merged PR [#27](https://github.com/techbuzzz/Delibera/pull/27) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+2. 💪 Opened PR [#27](https://github.com/techbuzzz/Delibera/pull/27) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. ℹ️ Assigned PR [#27](https://github.com/techbuzzz/Delibera/pull/27) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. 🚀 Published release [Delibera 10.5.2](https://github.com/techbuzzz/Delibera/releases/tag/v10.5.2) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. 🚀 Published release [v10.5.1](https://github.com/techbuzzz/Delibera/releases/tag/v10.5.1) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
