@@ -149,8 +149,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)
-- [.NET 11: A Deep Dive into the Future of .NET](https://techbuzzz.me/blog/dotnet-11-deep-dive/)<!-- BLOG-POST-LIST:END -->
+- [Why AI Agents Degrade: Six Different Failures Behind One Word](https://techbuzzz.ru/blog/agent-degradation-measurement/)
+- [Organizational Design and Unit Economics for an AI-Native SDLC](https://techbuzzz.ru/blog/adlc-org-and-economics/)
+- [An ADLC Adoption Playbook: From Assistants to Agent-Driven Delivery](https://techbuzzz.ru/blog/adlc-adoption-playbook/)
+- [The Infrastructure an ADLC Actually Requires](https://techbuzzz.ru/blog/adlc-infrastructure/)
+- [Where the Bottleneck Moved: Code Review After Coding Agents](https://techbuzzz.ru/blog/ai-code-review-bottleneck/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on techbuzzz.me](https://techbuzzz.me/blog/)
 
