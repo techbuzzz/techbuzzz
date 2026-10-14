@@ -10,6 +10,15 @@
   <img src="https://img.shields.io/github/stars/techbuzzz?label=Total+Stars&style=flat-square&color=ffd700" alt="Total stars" />
 </p>
 
+<!-- <p align="center">
+  <a href="https://github.com/techbuzzz/agent-shaker">
+  <img src="https://raw.githubusercontent.com/techbuzzz/agent-shaker/main/images/logo-clean.png" alt="Agent Shaker — AI Coordination Platform" width="420" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/techbuzzz/Delibera"><img src="https://raw.githubusercontent.com/techbuzzz/Delibera/refs/heads/main/img/delibera-square-1024x1024-clear.png" alt="Delibera — Multi-Model AI Council Framework" width="420" /></a>
+</p> -->
+
 ---
 
 ## 🧠 About Me
@@ -57,12 +66,12 @@ Structured AI deliberation — multiple LLMs reason across rounds, critique each
 </td>
 <td width="50%">
 
-### 🦾 [Hercules](https://github.com/techbuzzz/Hercules)
-**Self-Improving Microagent** · C# / .NET 10
+### 🍸 [Agent Shaker](https://github.com/techbuzzz/agent-shaker)
+**AI Agent Coordination Platform** · Go / Nuxt 4 / PostgreSQL
 
-A compact self-improving microagent that reproduces key "hermes-style" agent characteristics in a runnable form factor. Skill-based learning, MCP tools, human-in-the-loop required for skill creation.
+Task coordination for teams of AI agents — register agents, assign real work, coordinate through MCP with milestones, shared markdown context, live updates, and A2A delegation to external agents. 27 MCP tools, WebSocket feed, Nuxt 4 UI.
 
-`Agents` `MCP` `Skills` `YandexGPT` `Ollama`
+`Agents` `MCP` `A2A` `Go` `Nuxt` `Docker`
 
 </td>
 </tr>
@@ -128,11 +137,11 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 🏆 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/techbuzzz/Hercules/pull/7) in [techbuzzz/Hercules](https://github.com/techbuzzz/Hercules)
-2. 🚀 Published release [v0.5.6](https://github.com/techbuzzz/agent-shaker/releases/tag/v0.5.6) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-3. 🎉 Merged PR [#43](https://github.com/techbuzzz/agent-shaker/pull/43) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-4. 💪 Opened PR [#43](https://github.com/techbuzzz/agent-shaker/pull/43) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
-5. ℹ️ Assigned PR [#43](https://github.com/techbuzzz/agent-shaker/pull/43) in [techbuzzz/agent-shaker](https://github.com/techbuzzz/agent-shaker)
+1. 🎉 Merged PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+2. ℹ️ Labeled PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+3. 💪 Opened PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+4. ℹ️ Assigned PR [#20](https://github.com/techbuzzz/Delibera/pull/20) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
+5. 🔒 Closed issue [#19](https://github.com/techbuzzz/Delibera/issues/19) in [techbuzzz/Delibera](https://github.com/techbuzzz/Delibera)
 <!--END_SECTION:activity-->
 
 ---
@@ -140,11 +149,8 @@ Free online presentation player powered by Marp Core. Paste Marp-flavored markdo
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Evaluation Before Production: A Practical Guide](https://techbuzzz.me/blog/rag-evaluation-before-production/)
-- [Chunking Is Not a Strategy: How to Choose Retrieval Units](https://techbuzzz.me/blog/chunking-is-not-a-strategy/)
-- [From Senior Engineer to Principal: What Changes and What Does Not](https://techbuzzz.me/blog/senior-to-principal-engineer/)
-- [RAG Is a System, Not a Prompt: Retrieval, Context, Evaluation and Operations](https://techbuzzz.me/blog/rag-is-a-system-not-a-prompt/)
-- [5 Questions Before Starting a RAG PoC](https://techbuzzz.me/blog/5-questions-before-rag-poc/)<!-- BLOG-POST-LIST:END -->
+- [From AI Demo to Production: What Enterprise Teams Actually Need](https://techbuzzz.me/blog/ai-from-demo-to-production/)
+- [.NET 11: A Deep Dive into the Future of .NET](https://techbuzzz.me/blog/dotnet-11-deep-dive/)<!-- BLOG-POST-LIST:END -->
 
 ▶ [...more articles on techbuzzz.me](https://techbuzzz.me/blog/)
 
